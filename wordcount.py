@@ -1,3 +1,4 @@
+#FUNCTION TO COUNT THE NUMBER OF WORDS.
 def word_count(sentences):
     words=sentences.split()
     return len(words)
